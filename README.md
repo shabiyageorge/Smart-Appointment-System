@@ -112,29 +112,6 @@ Create Account For Professionals (Doctors, Astrologers, or etc.)
 ✅ View/manage their own appointments.
 
 
-##### Subscriber (Client):
-✅ Guest checkout is available. However, bookings can only be viewed after logging in with an account created at the time of booking.
 
-## Support & Customization Services
-For installation assistance, premium support, or custom feature development:
 
-#### Contact Our Team:
-📱 WhatsApp: https://wa.me/918447525204
 
-✉ Email: info@vfixtechnology.com
-
-🌐 Website: https://www.vfixtechnology.com
-
-Paid support packages available for enterprise implementations and custom integrations.
-
-## Support This Project
-
-If you find this package useful, please consider showing your support by:
-
-⭐ Giving the repository a star on GitHub  
-📣 Sharing it with your developer community  
-🐛 Reporting any issues you encounter  
-
-Your support helps maintain and improve this project for everyone.
-
-#### For any help or customization, visit https://www.vfixtechnology.com or email us info@vfixtechnology.com
